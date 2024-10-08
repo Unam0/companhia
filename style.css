@@ -1,0 +1,32 @@
+body {
+    overflow: hidden;
+}
+
+.cabeca {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 20px;
+    margin-bottom: 50px;
+
+}
+
+.btn-bw {
+    text-decoration: none;
+
+    
+}
+
+.corpo {
+    box-sizing: border-box;
+    margin: 0 auto;
+    text-align: center;
+    width: 650px ;
+    height: 155px;
+}
+
+.row{
+    justify-content: center;
+    height: 300px;
+    gap: 40px;
+    margin-top: 40px;
+}
